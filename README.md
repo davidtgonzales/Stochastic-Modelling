@@ -1,2 +1,2 @@
 # Stochastic-Modelling
-Stochastic models of genetic circuits in IPython.
+Stochastic models of biological systems and genetic circuits in IPython.
